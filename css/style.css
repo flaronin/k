@@ -8,10 +8,7 @@
   background-image: url("../istockphoto-1356364287-612x612.jpg");
   background-size: cover;
 }
-.main-header .background-header {
-  background-repeat: no-repeat;
-  backdrop-filter: blur(1px);
-}
+
 
 ::-webkit-scrollbar-thumb {
   background-color: #00A8FF;
